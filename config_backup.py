@@ -9,7 +9,7 @@ device = {
           'ip':'10.56.80.7',
           'username':username,
           'password':pswd,
-          'secret':'c0d312sw!',
+          'secret':'yoursecret',
           'device_type':'cisco_ios'
           }
 
