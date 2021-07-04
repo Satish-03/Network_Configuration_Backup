@@ -14,7 +14,7 @@ def ssh_connect(ip, username, pswd, enpswd):
               'ip':ip, 
             'username':username,
             'password':pswd,
-            'secret':enpswd',
+            'secret':enpswd,
             'device_type':'cisco_ios'
              }
 
