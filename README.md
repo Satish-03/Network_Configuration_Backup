@@ -1,5 +1,5 @@
 # Network Configuration Backup
-Network configuration backup takes backup from runnig-config of network devices as per the schedule and manages backup repository. The script works for specifically Cisco ISO devices.
+Network configuration backup takes backup from runnig-config of network devices as per the schedule and manages backup repository. The script works for specifically Cisco IOS devices.
 
   Instructions to use
   
