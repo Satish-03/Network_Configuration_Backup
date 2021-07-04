@@ -54,10 +54,3 @@ consume = stop - start
 print("-"*80)
 print("Activity is completed in {} secs".format(consume))
 print("-"*80)
-
-
-	
-
-
-
-
