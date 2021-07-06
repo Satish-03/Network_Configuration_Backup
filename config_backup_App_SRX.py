@@ -1,4 +1,6 @@
 from netmiko import ConnectHandler
+from netmiko.ssh_exception import AuthenticationException
+from netmiko.ssh_exception import NetMikoTimeoutException
 import os
 import os.path
 import re
