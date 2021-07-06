@@ -58,7 +58,7 @@ except (NetMikoTimeoutException):
 
 
 #provide IPs below as ['1.1.1.1','2.2.2.2','3.3.3.3']
-ip_list = ['10.76.96.254']
+ip_list = ['']
 #Starting couting secs
 start = time.time()
 
@@ -73,10 +73,3 @@ consume = stop - start
 print("-"*80)
 print("Activity is completed in {} secs".format(consume))
 print("-"*80)
-
-
-	
-
-
-
-
