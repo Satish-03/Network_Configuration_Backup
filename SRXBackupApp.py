@@ -63,7 +63,7 @@ except (NetMikoTimeoutException):
 
 
 #provide IPs below as ['1.1.1.1','2.2.2.2','3.3.3.3']
-ip_list = ['10.66.255.1', '10.65.144.10']
+ip_list = []
 #Starting couting secs
 start = time.time()
 
