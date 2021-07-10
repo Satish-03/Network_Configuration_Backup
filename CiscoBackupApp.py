@@ -68,20 +68,7 @@ def ssh_connect(ip, username, pswd, enpswd):
     
 
 #provide IPs below as ['1.1.1.1','2.2.2.2','3.3.3.3']
-ip_list = [
-
-'10.77.160.24',
-'10.77.160.25',
-'10.77.160.26',
-'10.77.160.27',
-'10.77.160.28',
-'10.77.160.29',
-'10.77.160.30',
-'10.77.160.31',
-'10.77.160.32',
-'10.77.160.33'
-
-          ]
+ip_list = [ ]
 
 #Starting couting secs
 start = time.time()
@@ -97,10 +84,3 @@ consume = stop - start
 print("-"*80)
 print("Activity is completed in {} secs".format(consume))
 print("-"*80)
-
-
-	
-
-
-
-
