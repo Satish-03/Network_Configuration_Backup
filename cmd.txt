@@ -1,3 +1,20 @@
-sh run 
+sh run
 sh ip int b
-sh cdp nei
+sh ip int b | i up
+sh int status
+sh int status | i connected
+sh int description
+sh int description  | i up
+sh cdp neigh
+sh version
+sh switch
+sh inventory
+sh boot
+sh etherchannel summary 
+sh ip route 
+sh vlan
+sh env all
+sh file system
+dir
+sh flash:
+wr
