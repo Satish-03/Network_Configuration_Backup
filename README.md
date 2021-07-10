@@ -8,9 +8,6 @@ Network configuration backup takes backup from runnig-config of network devices 
     * Run the script
     * Stay Tuned for multple device feature as well as others such as providing IPs in a csv file, getting repository at some other location instead of default one, schedule a job.
     
-    
- ![backdevice](https://user-images.githubusercontent.com/63805419/124388149-2cb89e80-dcff-11eb-86e3-3efc38060a86.PNG)
-
-  
-  
-  
+ 
+ ![cap1](https://user-images.githubusercontent.com/63805419/125161844-409e4d80-e1a2-11eb-9c09-62d86a32f81b.PNG)
+ ![cap2](https://user-images.githubusercontent.com/63805419/125161846-4136e400-e1a2-11eb-8b2d-a86ef97fddad.PNG)
