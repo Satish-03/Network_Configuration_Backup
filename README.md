@@ -11,3 +11,4 @@ Network configuration backup takes backup from runnig-config of network devices 
  
  ![cap1](https://user-images.githubusercontent.com/63805419/125161844-409e4d80-e1a2-11eb-9c09-62d86a32f81b.PNG)
  ![cap2](https://user-images.githubusercontent.com/63805419/125161846-4136e400-e1a2-11eb-8b2d-a86ef97fddad.PNG)
+ ![backup](https://user-images.githubusercontent.com/63805419/126487162-82358dcc-2006-4abe-a53c-192c8fd5e225.PNG)
