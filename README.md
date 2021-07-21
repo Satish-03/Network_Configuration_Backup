@@ -3,7 +3,7 @@ Network configuration backup takes backup from runnig-config of network devices 
 
   Instructions to use
   
-    * Provide multiple IPs in a ip_list as ip_list =  ['1.1.1.1','2.2.2.2','3.3.3.3']
+    * Provide multiple IPs in a ip_list text file
     * Provide operational mode commands in cmd.txt file
     * Run the script
     * Stay Tuned for multple device feature as well as others such as providing IPs in a csv file, getting repository at some other location instead of default one, schedule a job.
