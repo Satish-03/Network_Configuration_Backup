@@ -68,8 +68,8 @@ def ssh_connect(ip, username, pswd):
                                 f.write('\n')
                                 f.write(output)
                                 f.write('\n\n\n\n')
-                        print("\nBackup completed for {}".format(hname))
-                        connection.disconnect()
+                print("\nBackup completed for {}".format(hname))
+                connection.disconnect()
                         
         except (AuthenticationException):
                 print("\nOops! Authentication fails    Try again....")
