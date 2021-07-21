@@ -76,13 +76,6 @@ def ssh_connect(ip, username, pswd, enpswd):
     except (EOFError):
             print("\nSomething else occurred....Try again")
             
-       
-    
-
-#provide IPs below as ['1.1.1.1','2.2.2.2','3.3.3.3']
-#ip_list = []
-
-
 
 
 #Starting couting secs
@@ -99,10 +92,3 @@ consume = stop - start
 print("-"*80)
 print("Activity is completed in {} secs".format(consume))
 print("-"*80)
-
-
-	
-
-
-
-
